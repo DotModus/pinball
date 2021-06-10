@@ -52,7 +52,7 @@ setup(
     install_requires=[
         'argparse>=1.2.1',
         'boto>=2.8.0',
-        'Django>=1.5.4,<=1.6.0',
+        'Django>=1.5.4,<2.3.0',
         'guppy>=0.1.10',
         'mock>=0.8.0',
         'MySQL-python>=1.2.3',
